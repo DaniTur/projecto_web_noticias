@@ -18,7 +18,7 @@ https://rawgit.com/DaniTur/projecto_web_noticias/master/news.html
 ## Descripción
 En este proyecto utilizaremos las herramientas: HTML 5, CSS 3, jQuery , Bootstrap 5.
 
-Primero hacemos un diseño a mano de las indicaciones que nos dan para hacer el proyecto.
+-Primero hacemos un diseño a mano de las indicaciones que nos dan para hacer el proyecto.
 
 **Imagenes**
 
@@ -31,18 +31,18 @@ Este es el dibujo general de la primera versión de escritorio:
 Este es el dibujo general de la primera versión de smartphones:
 ![img_20180602_133051](https://user-images.githubusercontent.com/32305784/40874193-98281b62-666c-11e8-95a1-f6903e5ce808.jpg)
 
- Luego pensamos y dibujamos el diseño por capas del proyecto. Una versión para escritorio y para móvil de la pagina inicial y una versión para escritorio y móvil de la pagina individual de cada noticia completa.
+-Luego pensamos y dibujamos el diseño por capas del proyecto. Una versión para escritorio y para móvil de la pagina inicial y una versión para escritorio y móvil de la pagina individual de cada noticia completa.
 
-Utilizando las librerías de Bootstrap 3 hacemos una plantilla básica de HTML y CSS de la página inicial tanto en móvil como en escritorio.
+-Utilizando las librerías de Bootstrap 3 hacemos una plantilla básica de HTML y CSS de la página inicial tanto en móvil como en escritorio.
 
-A continuación modificamos la plantilla básica de Bootstrap, añadimos y retocamos todo lo necesario para que quede como en el diseño de capas dibujado. La posición exacta de los artículos, espacio publicitario, encabezado y  demás cosas, al no estar especificadas, las ponemos como a nosotros nos parezca adecuado.
+-A continuación modificamos la plantilla básica de Bootstrap, añadimos y retocamos todo lo necesario para que quede como en el diseño de capas dibujado. La posición exacta de los artículos, espacio publicitario, encabezado y  demás cosas, al no estar especificadas, las ponemos como a nosotros nos parezca adecuado.
 
-Ahora crearemos las páginas para las noticias individuales, de la misma manera que antes, primero haremos una plantilla básica con Bootstrap y la modificaremos para que quede como el diseño dibujado haciendo los retoques necesarios para que las interacciones entre elementos al ajustar diferentes tamaños de pantalla funcionen correctamente y queden limpios.
+-Ahora crearemos las páginas para las noticias individuales, de la misma manera que antes, primero haremos una plantilla básica con Bootstrap y la modificaremos para que quede como el diseño dibujado haciendo los retoques necesarios para que las interacciones entre elementos al ajustar diferentes tamaños de pantalla funcionen correctamente y queden limpios.
 
 
-Cuando ya tenemos los diseños hacemos el espacio para la publicidad dandole un margen fijo a la derecha del contenido y ese sera el espacio publicitario.
+-Cuando ya tenemos los diseños hacemos el espacio para la publicidad dandole un margen fijo a la derecha del contenido y ese sera el espacio publicitario.
 
-Al terminar esto empezé a escribir el javascript de la web con jQuery que simplifica bastante el código a escribir, el proyecto cuenta con diferentes funciones:
+-Al terminar esto empezé a escribir el javascript de la web con jQuery que simplifica bastante el código a escribir, el proyecto cuenta con diferentes funciones:
 - Boton para cargar más noticias desde diferentes archivos JSON
 - Boton para cambiar entre cagar nocitias con escroll Activado/Desactivado
 - Cargar noticias al hacer scroll
