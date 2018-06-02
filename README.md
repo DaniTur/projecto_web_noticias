@@ -1,8 +1,8 @@
-# projecto_web_noticias
+# Proyecto_web_noticias
 
 https://rawgit.com/DaniTur/projecto_web_noticias/master/news.html
 
-Notas de cambios:
+## Notas de cambios:
 
 - Se ha añadido un botón para cargas más noticias aparte de las 3 estáticas.
 - Se ha añadido la funcionalidad de cargar noticias haciendo scroll con un botón propio.
