@@ -1,7 +1,7 @@
 # Proyecto_web_noticias_min
 Con jQuery, Html, Css, Json Minimificado
 
-https://rawgit.com/DaniTur/projecto_web_noticias/master/news.html
+https://rawgit.com/DaniTur/projecto_web_noticias/proyecto_web_noticias_min/news.html
 
 ## Notas de cambios:
 
