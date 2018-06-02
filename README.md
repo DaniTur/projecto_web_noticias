@@ -15,6 +15,7 @@ https://rawgit.com/DaniTur/projecto_web_noticias/master/news.html
 - Se ha introducido el enlace al fichero rss.xml
 - Se ha mejorado el código para que no se repitan trozos de código idénticos mejorando el rendimiento.
 
+## Descripción
 En este proyecto utilizaremos las herramientas: HTML 5, CSS 3, jQuery , Bootstrap 5.
 
 Primero hacemos un diseño a mano de las indicaciones que nos dan para hacer el proyecto.
